@@ -1,5 +1,7 @@
 body{
     width: 960px;
     height: auto;
-    
+    background-color: rgb(181, 164, 143);
+    margin: 0 auto;
+    text-align: center;
 }
